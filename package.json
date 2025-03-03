@@ -1,7 +1,7 @@
 {
   "name": "teacher-web",
   "version": "0.1.0",
-  "homepage": "https://PanyawutS.github.io/TeacherWeb",
+  "homepage": "https://panyawuts.github.io/TeacherWeb/",
   "private": true,
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
